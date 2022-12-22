@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DarkMode
+![image](https://user-images.githubusercontent.com/93900532/209134678-bf114ff3-ce0b-4098-b40f-cfdd3e530b4e.png)
+## LighMode
+ ![image](https://user-images.githubusercontent.com/93900532/209134717-0ba9ebe8-9a5b-4e86-88df-d75431fd4e68.png)
+
 
 ## Available Scripts
 
